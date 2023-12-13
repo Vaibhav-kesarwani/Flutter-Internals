@@ -1,4 +1,4 @@
-# todoapp
+# Flutter internals
 
 A new Flutter project.
 
