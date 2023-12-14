@@ -1,4 +1,4 @@
-# Flutter internal
+# Flutter internals
 
 This project aims to delve into the core mechanisms of Flutter, focusing on understanding its task execution and memory rendering. Through this exploration, we aim to gain insights into how Flutter manages and executes tasks, as well as comprehending the intricacies of its memory rendering processes.
 
